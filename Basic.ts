@@ -18,7 +18,7 @@
 // favNumber = "Hello"
 // tsHard = 20
 
-let color: any = "crimson";
-color = 20;
-color = true;
-console.log(color);
+// let color: any = "crimson";
+// color = 20;
+// color = true;
+// console.log(color);

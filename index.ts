@@ -1,9 +1,11 @@
-type Person ={
-    name : string,
-};
+// type Person ={
+//     name : string,
+// };
 
-const person: Person = {
-    name : "john",
-};
+// const person: Person = {
+//     name : "john",
+// };
 
-console.log(person.name);
+// console.log(person.name);
+
+
